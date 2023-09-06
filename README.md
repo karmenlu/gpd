@@ -37,6 +37,7 @@ The reference for this package is:
 1. [Grasp Image](#descriptor)
 1. [References](#References)
 1. [Troubleshooting](#troubleshooting)
+1. [Running Dockerfile](#running_dockerfile)
 
 <a name="requirements"></a>
 ## 1) Requirements
@@ -250,3 +251,7 @@ clutter**](http://arxiv.org/abs/1603.01564). IROS 2016, pp. 598-605.
 1. `make clean`
 1. Remove the `build` folder and rebuild.
 1. Update *gcc* and *g++* to a version > 5.
+
+<a name="running_dockerfile"></a>
+## 12) Running Dockerfile
+1. [Install Docker Engine](https://docs.docker.com/engine/install/) for your system.
